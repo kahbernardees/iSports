@@ -1,0 +1,5 @@
+@startuml
+class com.mycompany.isports.ModalidadesEsportivas
+class com.mycompany.isports.Turmas
+class com.mycompany.isports.Usuario
+@enduml
